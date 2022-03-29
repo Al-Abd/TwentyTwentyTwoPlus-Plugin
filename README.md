@@ -1,1 +1,3 @@
 # TwentyTwentyTwoPlus-Plugin
+
+Wordpress theme
